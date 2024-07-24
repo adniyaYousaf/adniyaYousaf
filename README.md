@@ -7,7 +7,7 @@ Full stack Developer
 A full stack developer with experience in building and maintaining high-quality web applications 🌻 Have a strong understanding of the full web development stack, from front-end development with HTML, CSS, JavaScript, React.js to back-end development with Node.js, Express.js, Postgresql 🌻 Proficient in using Git and GitHub for version control and collaboration 🌻 Other skills: Agile development, TDD, OOP
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [adniyayousaf92@gmail.com](mailto:adniyayousaf92@gmail.com)
+* ✉️  You can contact me at [adnya@live.com](mailto:adnya@live.com)
 
 ### Skills
 
